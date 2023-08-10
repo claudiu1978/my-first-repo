@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account for lerning gt
+Practice account for lerning Git
